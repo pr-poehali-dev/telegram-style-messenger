@@ -202,7 +202,7 @@ const Index = () => {
         {/* Header */}
         <div className="p-4 border-b border-gray-200 bg-telegram-blue text-white">
           <div className="flex items-center justify-between">
-            <h1 className="text-xl font-semibold">Telegram</h1>
+            <h1 className="text-xl font-semibold">nikmessenger</h1>
             <div className="flex items-center space-x-2">
               <Button variant="ghost" size="icon" className="text-white hover:bg-white/20">
                 <Icon name="Search" size={20} />
