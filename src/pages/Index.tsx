@@ -90,9 +90,9 @@ const Index = () => {
       {/* Sidebar with chats */}
       <div className="w-80 bg-white border-r border-gray-200 flex flex-col">
         {/* Header */}
-        <div className="p-4 border-b border-gray-200 bg-telegram-blue text-white">
+        <div className="p-4 border-b border-gray-200 text-white bg-[#000000]">
           <div className="flex items-center justify-between">
-            <h1 className="text-xl font-semibold">Telegram</h1>
+            <h1 className="text-xl font-semibold">Niktops messenger</h1>
             <div className="flex items-center space-x-2">
               <Button variant="ghost" size="icon" className="text-white hover:bg-white/20">
                 <Icon name="Search" size={20} />
